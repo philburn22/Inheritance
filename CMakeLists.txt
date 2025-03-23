@@ -7,4 +7,8 @@ add_executable(Philburn_HW3_Q1 main.cpp
         Person.h
         Person.cpp
         Hero.h
-        Hero.cpp)
+        Hero.cpp
+        SuperHero.h
+        SuperHero.cpp
+        Villain.h
+        Villain.cpp)

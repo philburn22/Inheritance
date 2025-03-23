@@ -6,7 +6,7 @@ class Person
 {
 public:
     Person();
-    Person(std::string first, std::string last, int year, int day, int month);
+    Person(std::string first, std::string last, int day, int month, int year);
     std::string getName();
     std::string getBirthdate();
 
